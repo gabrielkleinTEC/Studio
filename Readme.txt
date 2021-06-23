@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Licensa MIT
 
-Template Name: Studio
-Template URL: https://templatemag.com/studio-bootstrap-agency-template/
-Author: TemplateMag.com
-License: https://templatemag.com/license/
+Usado e interagido normalmente.
